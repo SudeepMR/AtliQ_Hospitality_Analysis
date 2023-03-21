@@ -33,3 +33,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 # Data Model
 
 <img width="329" alt="challenge_1_Model" src="https://user-images.githubusercontent.com/117252390/226629718-85179b33-ea68-4fe8-be1d-6141207d0a60.PNG">
+
+# Overall Analysis View
+
+<img width="554" alt="Overall_page" src="https://user-images.githubusercontent.com/117252390/226630348-bb3a2933-b4f7-4555-a86e-80dcfce14e86.PNG">
+
+# Monthly Analysis View
+
